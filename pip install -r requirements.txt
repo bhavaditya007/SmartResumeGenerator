@@ -1,0 +1,2 @@
+3. Obtain your Gemini API key from [Google AI](https://ai.google.dev/gemini-api) and add it to `main.py`.
+4. Run the application:
